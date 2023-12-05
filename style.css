@@ -78,6 +78,9 @@ h2, h3 {
 .aaa{
     display: none;
 }
+.para1{
+    padding: 0 20px;
+}
 
 @media screen and (max-width: 401px) {
     .grid{
