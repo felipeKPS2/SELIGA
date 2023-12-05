@@ -78,3 +78,14 @@ h2, h3 {
 .aaa{
     display: none;
 }
+
+@media screen and (max-width: 401px) {
+    .grid{
+        grid-template-columns: 50% 50%;
+
+    }
+    .p3{
+        display: block;
+    }
+    
+}
