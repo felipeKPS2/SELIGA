@@ -5,6 +5,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    position: relative;
 }
 
 .container1 {
@@ -62,4 +63,12 @@ footer{
 
 h2, h3 {
     color: #6E603A;
+}
+.botao{
+    display: none;
+}
+.botao:checked~.item{
+    display: block;
+    position: absolute;
+    top: 100%;
 }
