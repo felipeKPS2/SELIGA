@@ -1,4 +1,15 @@
 header{
     display: flex;
-    
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container1{
+display: flex;
+}
+.espaço{
+    padding: 0 20px;
+}
+.some{
+    padding: 0 20px;
 }
