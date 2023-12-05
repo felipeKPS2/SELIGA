@@ -41,3 +41,19 @@ header {
     text-align: center;
     margin: 20px 0;
 }
+
+.grid1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: #BEE1C8;
+}
+footer{
+    background-color: #1D592E;
+}
+.cor{
+    color: white;
+}
+
+h2, h3 {
+    color: #6E603A;
+}
