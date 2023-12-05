@@ -101,4 +101,7 @@ h2, h3 {
     .para{
         font-size: 12px;
     }
+    .img2{
+        width: 45%;
+    }
 }
