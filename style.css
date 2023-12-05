@@ -67,7 +67,7 @@ h2, h3 {
 .botao{
     display: none;
 }
-.botao:checked~.item{
+.aaa:checked~.botao{
     display: block;
     position: absolute;
     top: 100%;
