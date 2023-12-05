@@ -66,6 +66,7 @@ h2, h3 {
 }
 .botao{
     display: none;
+    background-color: white;
 }
 .aaa:checked~.botao{
     display: block;
