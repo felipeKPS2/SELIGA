@@ -49,9 +49,12 @@ header {
 }
 footer{
     background-color: #1D592E;
+    margin: 0;
+    text-align: center;
 }
 .cor{
     color: white;
+    padding: 20px;
 }
 
 h2, h3 {
